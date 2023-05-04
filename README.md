@@ -2,7 +2,6 @@
 <!DOCTYPE html>
 <html>
 <body>
-	<h1>TransMate</h1>
 	<p>TransMate is a C#-based client-server application designed to manage reservations for a transport company with multiple offices throughout the country. The application is built using the networking feature in C# to enable communication between the client and server components.</p>
 	<h2>Server Component</h2>
 	<p>The server component of the application is responsible for managing trips and reservations, which are stored in an SQLite database.</p>
